@@ -20,6 +20,6 @@ java HolaMundo
 Pagina oficial de [Java] (https://www.java.com/es/) :wink: :robot:
 
 ## Alumno propietario del Repositorio
-Luis Ja. Menéndez Tascón (Profesor ENDES)
+Luis Ja. Menéndez Tascón [PROFESOR]
 
 
