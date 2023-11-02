@@ -10,7 +10,8 @@ Por lo tanto, Eclipse se encarga tanto de la **compilación** como de la **ejecu
 
 A través de su vista "Console" veremos los resultados de la ejecución.
 
-Alternativamente, podríamos realizar la compilación y ejecución directamente desde la **línea de comandos**:
+Alternativamente, podríamos realizar la compilación y ejecución directamente desde la **línea de comandos**
+
 ```console
 javac HolaMundo.java
 java HolaMundo
@@ -19,6 +20,6 @@ java HolaMundo
 Pagina oficial de [Java] (https://www.java.com/es/) :wink: :robot:
 
 ## Alumno propietario del Repositorio
-Luis Ja. Menéndez Tascón
+Luis Ja. Menéndez Tascón (Profesor)
 
 
